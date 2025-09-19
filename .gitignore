@@ -1,3 +1,6 @@
 node_modules
 coverage  
 coverage/lcov-report/index.html
+
+# Salidas de tests
+coverage/
